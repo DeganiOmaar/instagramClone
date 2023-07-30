@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070296504185",
+    "project_id": "secondinsta-430c8",
+    "storage_bucket": "secondinsta-430c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070296504185:android:070c068ee43c20fecb41a8",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070296504185-167gsml14spu7anj17sfe6n0jtko4lbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7mk7n3a1nekMKcew7gvFBbWPMo7cClmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070296504185-167gsml14spu7anj17sfe6n0jtko4lbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
